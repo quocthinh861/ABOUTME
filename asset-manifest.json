@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quocthinh861.github.io/ABOUTME/static/css/main.7560e8fa.chunk.css",
+    "main.js": "/quocthinh861.github.io/ABOUTME/static/js/main.e0d6190b.chunk.js",
+    "main.js.map": "/quocthinh861.github.io/ABOUTME/static/js/main.e0d6190b.chunk.js.map",
+    "runtime-main.js": "/quocthinh861.github.io/ABOUTME/static/js/runtime-main.be56f74e.js",
+    "runtime-main.js.map": "/quocthinh861.github.io/ABOUTME/static/js/runtime-main.be56f74e.js.map",
+    "static/js/2.b351d517.chunk.js": "/quocthinh861.github.io/ABOUTME/static/js/2.b351d517.chunk.js",
+    "static/js/2.b351d517.chunk.js.map": "/quocthinh861.github.io/ABOUTME/static/js/2.b351d517.chunk.js.map",
+    "static/js/3.4d4002cf.chunk.js": "/quocthinh861.github.io/ABOUTME/static/js/3.4d4002cf.chunk.js",
+    "static/js/3.4d4002cf.chunk.js.map": "/quocthinh861.github.io/ABOUTME/static/js/3.4d4002cf.chunk.js.map",
+    "index.html": "/quocthinh861.github.io/ABOUTME/index.html",
+    "static/css/main.7560e8fa.chunk.css.map": "/quocthinh861.github.io/ABOUTME/static/css/main.7560e8fa.chunk.css.map",
+    "static/js/2.b351d517.chunk.js.LICENSE.txt": "/quocthinh861.github.io/ABOUTME/static/js/2.b351d517.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be56f74e.js",
+    "static/js/2.b351d517.chunk.js",
+    "static/css/main.7560e8fa.chunk.css",
+    "static/js/main.e0d6190b.chunk.js"
+  ]
+}
